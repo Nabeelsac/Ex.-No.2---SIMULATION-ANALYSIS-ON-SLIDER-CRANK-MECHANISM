@@ -1,4 +1,4 @@
-# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+# Ex. No.2  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 16/11/2024
 
@@ -41,8 +41,8 @@
 
 ![Screenshot (6)](https://github.com/user-attachments/assets/30bf1924-764f-465c-bafd-bd8ce804e969)
 
-### Name:   Vikaskumar M
-### Register Number: 24900247
+### Name:   nather Nabeel S.A.C
+### Register Number: 212224100040
 
 ## RESULT:
 ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
